@@ -1,0 +1,14 @@
+C:\dev\dotnet\EstudoBase\Structs\bin\Debug\net8.0\Structs.exe
+C:\dev\dotnet\EstudoBase\Structs\bin\Debug\net8.0\Structs.deps.json
+C:\dev\dotnet\EstudoBase\Structs\bin\Debug\net8.0\Structs.runtimeconfig.json
+C:\dev\dotnet\EstudoBase\Structs\bin\Debug\net8.0\Structs.dll
+C:\dev\dotnet\EstudoBase\Structs\bin\Debug\net8.0\Structs.pdb
+C:\dev\dotnet\EstudoBase\Structs\obj\Debug\net8.0\Structs.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\dotnet\EstudoBase\Structs\obj\Debug\net8.0\Structs.AssemblyInfoInputs.cache
+C:\dev\dotnet\EstudoBase\Structs\obj\Debug\net8.0\Structs.AssemblyInfo.cs
+C:\dev\dotnet\EstudoBase\Structs\obj\Debug\net8.0\Structs.csproj.CoreCompileInputs.cache
+C:\dev\dotnet\EstudoBase\Structs\obj\Debug\net8.0\Structs.dll
+C:\dev\dotnet\EstudoBase\Structs\obj\Debug\net8.0\refint\Structs.dll
+C:\dev\dotnet\EstudoBase\Structs\obj\Debug\net8.0\Structs.pdb
+C:\dev\dotnet\EstudoBase\Structs\obj\Debug\net8.0\Structs.genruntimeconfig.cache
+C:\dev\dotnet\EstudoBase\Structs\obj\Debug\net8.0\ref\Structs.dll
